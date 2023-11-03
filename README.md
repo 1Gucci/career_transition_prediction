@@ -4,7 +4,7 @@
 This project was implemented as an output of Data Capstone Project course of my college, which I had a chance to work with a client to pursue this real-world project. The course is not about counseling professionals on how to get a job or retain they current position, but how to look at their career and treat it like a problem to be solved or an opportunity to seek at work or business to come up with a sustainable solution. This project developed a machine learning model to predict the number of years before a professional makes a career transition.
 
 ### Methodology
-1. Utilized web scraping techniques to collect data from LinkedIn profiles, yielding a dataset of 3000 profiles spanning various industries and career levels.
+1. Utilized web scraping techniques to collect 3000 Linkedin profiles in tech industries and different career levels.
 2. Preprocessed and cleaned the data, handling missing values.
 3. Engineered features such as "unique job titles", "unique degree types", and target variable which is "number of years" it took for a particular profile to transit to a higher job level in order to enhance the predictive power of the model.
 4. Implemented a linear regression model, achieving a Mean absolute error (MAE) of 2.44, which means on average, the model's predictions deviate by about 2.44 years from the actual career transition times.
