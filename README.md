@@ -1,6 +1,6 @@
 ## [Project 2: Predictive Analytics For Career Excellence]
 ### Introduction
-![image](https://github.com/1Gucci/An_Bui_portfolio/assets/58675665/256e8659-1a93-4652-9163-5931ba5e25b8)
+![image](https://github.com/anbui-da/career_transition_prediction/assets/58675665/256e8659-1a93-4652-9163-5931ba5e25b8)
 This project was implemented as an output of Data Capstone Project course of my college, which I had a chance to work with a client to pursue this real-world project. The course is not about counseling professionals on how to get a job or retain they current position, but how to look at their career and treat it like a problem to be solved or an opportunity to seek at work or business to come up with a sustainable solution. This project developed a machine learning model to predict the number of years before a professional makes a career transition.
 
 ### Methodology
