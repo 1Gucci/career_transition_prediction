@@ -1,6 +1,6 @@
 ## [Project 2: Predictive Analytics For Career Excellence]
 ### Introduction
-
+![image](https://mayasastrology.com//uploads/free_Consultation_625c06aec8925.jpg)
 This project was implemented as an output of Data Capstone Project course of my college, which I had a chance to work with a client to pursue this real-world project. The course is not about counseling professionals on how to get a job or retain they current position, but how to look at their career and treat it like a problem to be solved or an opportunity to seek at work or business to come up with a sustainable solution. This project developed a machine learning model to predict the number of years before a professional makes a career transition.
 
 ### Methodology
@@ -14,8 +14,6 @@ This project was implemented as an output of Data Capstone Project course of my 
 2. The model was tested on a separate validation set and demonstrated of 28.4% of accuracy in predicting career transition times within a 1-year-margin.
 3. The model predicts 3.5 years on average that a profile make a transition to a higher job level.
 
-   **Model report of all predictors**   
-![image](https://github.com/1Gucci/An_Bui_portfolio/assets/58675665/1bcbe654-365c-485d-b485-4b3bd2981eba)
 
 ### Limitations and improvements
 **Limitations**
