@@ -13,7 +13,6 @@ This project was implemented as an output of Data Capstone Project course of my 
 1. The model showed that Work experience, Education level, With Honors, Volunteer_YN, Edu_Tech, Edu_NonTech are the most significant predictors. 
 2. The model was tested on a separate validation set and demonstrated of 28.4% of accuracy in predicting career transition times within a 1-year-margin.
 3. The model predicts 3.5 years on average that a profile make a transition to a higher job level.
-![image](https://github.com/1Gucci/An_Bui_portfolio/assets/58675665/1bcbe654-365c-485d-b485-4b3bd2981eba)
 
 ### Limitations and improvements
 **Limitations**
